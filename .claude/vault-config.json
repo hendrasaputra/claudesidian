@@ -1,0 +1,45 @@
+{
+  "user": {
+    "name": "Hendra Saputra",
+    "background": {
+      "companies": ["U9", "Ooredoo Myanmar", "Kuncie", "Telkomsel", "Accenture"],
+      "roles": ["CMO", "CEO", "COO", "GM Business Management"],
+      "education": ["MBA - University of Michigan (Ross)", "CS - Institut Pertanian Bogor (IPB)"],
+      "expertise": [
+        "Digital transformation",
+        "Venture building",
+        "Brand & marketing strategy",
+        "CRM & customer value management",
+        "Business incubation",
+        "Edtech"
+      ],
+      "interests": ["AI", "Marketing strategy", "Creative", "Quran studies", "Edutech"],
+      "publications": [
+        "Balancing Act: Innovation vs. BAU",
+        "Bridging the Divide: Higher Education and Industry in Indonesia"
+      ]
+    },
+    "profileSources": [
+      "https://www.linkedin.com/in/hendrasaputra/",
+      "https://hendrasaputra.com"
+    ],
+    "customContext": "Bilingual Indonesian/English. Focuses on building ventures, brands, and impact. Currently CMO at U9 in Myanmar.",
+    "publicProfile": true
+  },
+  "vaultPath": "/Users/hendrasaputra/hs_obs_vault",
+  "importedVaultPath": "/Users/hendrasaputra/Documents/Dropbox Vault",
+  "fileNamingPattern": "YYYY-MM-DD - Topic",
+  "organizationMethod": "PARA",
+  "primaryUses": ["research", "writing", "project-management", "daily-notes", "quran-studies"],
+  "writingStyle": "bilingual-id-en",
+  "tools": {
+    "geminiVision": true,
+    "firecrawl": false
+  },
+  "projects": ["U9 - Brand", "U9 - Products"],
+  "areas": ["Edutech", "Finance", "AI"],
+  "resources": ["Marketing Strategy", "Creative", "Quran Studies"],
+  "weeklyReview": true,
+  "importedAt": "2026-02-20",
+  "lastUpdated": "2026-02-20"
+}

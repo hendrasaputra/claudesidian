@@ -1,0 +1,2 @@
+
+medium-full shot of an young muslim Indonesian women and a warm smile, sitting in a charming cafe filled with plants, looking out the window as people walk by, wearing a bright pastel linen hijab, natural afternoon light shining through the windows & reflecting off her eyeglasses, shot on Agfa Vista 200, side-angle view, 4k --ar 16:9 --stylize 1000 --v 5
